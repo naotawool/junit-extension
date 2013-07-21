@@ -4,3 +4,13 @@
 *.jar
 *.war
 *.ear
+
+# Directory
+.settings
+target
+work
+
+.classpath
+.project
+.checkstyle
+
