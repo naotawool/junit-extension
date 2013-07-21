@@ -30,19 +30,16 @@
             <groupId>mockit</groupId>
             <artifactId>jmockit</artifactId>
             <version>${jmockit.version}</version>
-            <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>${junit.version}</version>
-            <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>org.hamcrest</groupId>
             <artifactId>hamcrest-library</artifactId>
             <version>${org.hamcrest.version}</version>
-            <scope>test</scope>
         </dependency>
     </dependencies>
     <build>
