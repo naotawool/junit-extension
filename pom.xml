@@ -43,7 +43,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>study-junitbook</finalName>
+        <finalName>junit-extention</finalName>
         <sourceDirectory>src/main/java</sourceDirectory>
         <resources>
             <resource>
